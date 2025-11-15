@@ -1,4 +1,6 @@
-dynamite
+Lalelolelo-dynamite:
+This is my personal fork of the amazing mod dynamite by unknown321, All i hope to do with this repo is add some little things here and there to make it easier for me and my friend to play together easier. 
+
 ===
 
 dynamite is a 2 player co-op mod for Metal Gear Solid V: The Phantom Pain in early development stage.
